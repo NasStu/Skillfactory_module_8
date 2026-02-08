@@ -28,8 +28,12 @@
 API
 Варианты, откуда можно брать картинки:
 
-https://dog.ceo/api/breeds/image/random/20 — JSON с 20 картинками собачек. Вы можете поменять число 20 в конце адреса на другое. Максимум — 50 картинок. Минимум — 5.
-https://api.thecatapi.com/v1/images/search?limit=10 — 10 рандомных фотографий с котами.
-https://jsonplaceholder.typicode.com/photos?_start=0&_limit=60 — фейковые картинки. Можете выставить другие числа после limit.
-https://picsum.photos/v2/list?page=1&limit=50 — лист рандомных картинок. Используйте его, если у вас есть доступ к этому сервису. Работает не во всех странах.
+- https://dog.ceo/api/breeds/image/random/20 — JSON с 20 картинками собачек. Вы можете поменять число 20 в конце адреса на другое. Максимум — 50 картинок. Минимум — 5.
+
+- https://api.thecatapi.com/v1/images/search?limit=10 — 10 рандомных фотографий с котами.
+
+- https://jsonplaceholder.typicode.com/photos?_start=0&_limit=60 — фейковые картинки. Можете выставить другие числа после limit.
+
+- https://picsum.photos/v2/list?page=1&limit=50 — лист рандомных картинок. Используйте его, если у вас есть доступ к этому сервису. Работает не во всех странах.
+
 Удачи!
